@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Manusia
+comment1.params=m
+comment1.target=java.lang.String\ bermain(java.lang.String)
+comment2.params=k
+comment2.target=java.lang.String\ makan(java.lang.String)
+comment3.params=t
+comment3.target=java.lang.Boolean\ tidur(java.lang.Boolean)
+comment4.params=k
+comment4.target=java.lang.String\ bekerja(java.lang.String)
+comment5.params=s
+comment5.target=java.lang.String\ memasak(java.lang.String)
+comment6.params=c
+comment6.target=java.lang.String\ mencuci(java.lang.String)
+numComments=7

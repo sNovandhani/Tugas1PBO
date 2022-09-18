@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Hewan
+comment1.params=m
+comment1.target=java.lang.String\ bermain(java.lang.String)
+comment2.params=k
+comment2.target=java.lang.String\ makan(java.lang.String)
+comment3.params=t
+comment3.target=java.lang.Boolean\ tidur(java.lang.Boolean)
+numComments=4
